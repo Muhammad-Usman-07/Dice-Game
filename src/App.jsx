@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import StartGame from './components/Startgame.jsx'
+import StartGame from './components/StartGame.jsx'
 import GamePlay from './components/GamePlay.jsx'
 
 const App = () => {
